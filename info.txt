@@ -1,0 +1,2 @@
+this project is just a testing out my skills in react.
+pagination means Where a user can use links such as "next", "previous", and page numbers to navigate between pages that display one page of results at a time.
